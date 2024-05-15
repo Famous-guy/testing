@@ -1,5 +1,12 @@
-console.log("hello world")
+console.log("hello world");
 
-print()
+// print()
 
-console('hello famous')
+console("hello famous");
+let name = "Alex";
+let nickname = "Alexix";
+
+let combo = name + nickname;
+combo.split;
+
+console.log(combo);
