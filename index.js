@@ -10,3 +10,4 @@ let combo = name + nickname;
 combo.split;
 
 console.log(combo);
+console.log('nice');
